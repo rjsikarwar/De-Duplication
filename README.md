@@ -45,6 +45,6 @@ Description of Classes :
       
       (iv). BlobRemoveConcreteListener.java
               : Implementation of BlobRemoveListner.java 
-      (v). QuboleDriverClass
+      (v). DeDuplicationDriverClass
               : Few basic test cases are written in this class
 	
